@@ -1,22 +1,25 @@
-# Hi, I'm T 👋
+# Hi, I'm Tyler 👋
 
 ###  Bridge the gap between imagination and realization | 
 
 ---
 
-## 💫 About Me / 关于我
-- 🎓 **Current**: Junior Computer Science student at **Xi'an University of Science and Technology**.
-- 🎓 **未来计划**: 将于 2026 年 6 月前往 **Victoria University of Wellington
-https://www.wgtn.ac.nz** 深造计算机科学与 AI。
-- 🎯 **Focus**: Using AI as a force multiplier to turn complex ideas into tangible products—fast.
-- 🎯 **目标**: 利用 AI 作为认知杠杆，将脑海中曾经因实现成本过高而搁置的创意转化为现实产品。
+##  About Me 
+-  **Current**: Junior Computer Science student at **Xi'an University of Science and Technology**.
+-  **FuturePlan**: Ready to pursuing advanced studies in Computer Science and AI at **Victoria University of Wellington https://www.wgtn.ac.nz** in June 2026.
+-  **Focus**: Using AI as a force multiplier to turn complex ideas into tangible products—fast.
+  
+##  Creative & Design
+- **Visual Design**: Aesthetic Design, Poster Design, and Graphic Design.
+- **Philosophy**: I believe that a great product is a fusion of robust logic and exceptional aesthetics.
 
-##  Tech Stack / 技术栈
-**Languages**: Java, C# (Unity).
-**Areas**: Web3 Ecosystem, AI-Driven Prototyping, Game Development.
-**Tools**: Claude Code, Git, Unity Engine.
+##  Tech Stack  
+- **Languages**: Java, C# (Unity).
+- **Areas**: Web3 Ecosystem, AI-Driven Prototyping, Game Development,
+- **Design Tools**: Figma, Canva.
+- **Tools**: Claude Code, Git, Unity Engine, Gemini Deepmind, CodeX, Manus.
 
-##  The Lab / 实验区
+##  The Lab 
 -  **[ClaudeCode-project](https://github.com/Tyleraltight/ClaudeCode-project)**: My automated development environment.
 -  *Check my repositories for specific projects in Unity and Web3.*
 
