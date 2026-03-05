@@ -9,18 +9,13 @@ English | [简体中文](README_CN.md)
 -  **Future Plan**: Ready to **pursue** advanced studies in CS and AI at **Victoria University of Wellington** in June 2026.
 -  **Focus**: Using AI as a force multiplier to turn complex ideas into tangible products—fast.
 
-##  Creative & Design
--  **Visual Design**: Aesthetic Design, Poster Design, and Graphic Design.
--  **Philosophy**: I believe that a great product is a fusion of robust logic and exceptional aesthetics.
-
 ##  Tech Stack
-- **Languages**: `Java`, `C# (Unity)`, `JavaScript`
-- **Areas**: Web3 Ecosystem, AI-Driven Prototyping, Game Development
-- **Design Tools**: Figma, Canva
-- **Tools**: Claude Code, Git, Unity Engine, Gemini Deepmind, CodeX, Manus
+- **Languages**: `Java`, `C# (Unity)`, `JavaScript`、`Python`、`React`
+- **Areas**:  AI-driven prototype development, graphic and poster design, Web3 Ecosystem
+- **Design Tools**: Figma, Canva、pencil
+- **Tools**: Claude Code、Antigravity、CodeX、Manus
 
-##  The Lab
--  **[ClaudeCode-project](https://github.com/Tyleraltight/claudecode-project)**: My automated development environment.
+
 -  *Check my repositories for specific projects in Unity and Web3.*
 
 ---
