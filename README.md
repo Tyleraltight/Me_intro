@@ -13,7 +13,11 @@ English | [简体中文](README_CN.md)
 - **Languages**: `Java`, `C# (Unity)`, `JavaScript`、`Python`、`React`
 - **Areas**:  AI-driven prototype development, graphic and poster design, Web3 Ecosystem
 - **Design Tools**: Figma, Canva、pencil
-- **Tools**: Claude Code、Antigravity、CodeX、Manus
+* **Tools**：
+  1. GPT-5.4 - Research + Programming + Parchi + OC
+  2. Kimi-K2.5 - Frontend Dev + Computer Use + Parchi
+  3. Opus-4.6 - Writing + Review GPT + Fallback
+  4. Gemini-3.1-Pro - Writing + Research + Reviews
 
 
 -  *Check my repositories for specific projects in Unity and Web3.*
